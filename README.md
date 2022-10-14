@@ -3,4 +3,4 @@
 
 > <b>Developer</b> Junho Lee
 
-> <b>Designer</b> Innu Kim
+> <b>Designer</b> Inwoo Kim     
